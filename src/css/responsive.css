@@ -1,9 +1,9 @@
 @media (max-width: 620px) {
-  .pokemon-slider {
+  .dragon-slider {
   padding: 0 15px;
   gap: 10px;
   }
-  .btn.seta{
+  .btn-arrow{
     width: 20px;
     height: 20px;
     padding: 20px;
@@ -11,18 +11,18 @@
     justify-content: center;
     align-items: center;
   }
-  .lista-pokemons {
+  .dragon-list {
     height: 480px;
   }
-  .cartao .imagem-pokemon {
+  .card .dragon-image {
     max-height: 230px;
   }
-  .cartao .informacoes .nome {
+  .card .info .name {
     max-width: 50%;
     font-size: 18px;
   }
 
-  .cartao .informacoes .vida {
+  .card .info .so-called {
     font-size: 14px;
   }
 }
