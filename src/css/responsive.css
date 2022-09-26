@@ -1,4 +1,8 @@
 @media (max-width: 620px) {
+ .header {
+justify-content: center;
+align-items: center;
+  }
   .dragon-slider {
   padding: 0 15px;
   gap: 10px;
